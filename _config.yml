@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Samuel T. X. Khoo
+email:       skho4571@uni.sydney.edu.au
+author:      Samuel T. X. Khoo
+description: ""
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "https://samueltxkhoo.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
